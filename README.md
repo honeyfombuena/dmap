@@ -1,5 +1,5 @@
 # dmap
-DMaP is a QGIS Plug-in developed for the Disaster Mapping Prioritization in OSM
+DMaP is a QGIS Plug-in developed to aid the Disaster Mapping Prioritization in OSM
 
 **How to Install the Plugin**
 
