@@ -19,3 +19,6 @@ After the plugin installation, open the Plugins Menu and select the Mapping Prio
 Use the settings shown on the image below to do a test run using the sample data inputs.
 
 ![image(8)](https://user-images.githubusercontent.com/128362151/226328903-d83d3c03-864d-494d-ae8d-7f3e504d397a.png)
+
+## How to share feedback
+We welcome user to test the QGIS plug-in by Friday 31 March. You can share feedback by creating an issue on Github (we have created a feedback template that you can use). If you are not familiar with Github, you can complete a feedback form [link to be added].
