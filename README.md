@@ -30,4 +30,4 @@ Phase 3 will, on the other hand, be devoted to improving the plugin's UI and UX.
 ![output](https://user-images.githubusercontent.com/128362151/227153426-f55a9d68-7e90-4821-aabc-4031867a9eb2.jpg)
 
 ## How to share feedback
-We welcome user to test the QGIS plug-in by Friday 31 March. You can share feedback by creating an issue on Github (we have created a feedback template that you can use). If you are not familiar with Github, you can complete a feedback form [link to be added].
+We welcome user to test the QGIS plug-in by Friday 31 March. You can share feedback by creating an issue on Github (we have created a feedback template that you can use). If you are not familiar with Github, you can complete a feedback form (https://forms.gle/TU8N7L8fM86FRPr76).
